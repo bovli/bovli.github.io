@@ -479,33 +479,33 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #f0f url('../img/212/doge-wink-212.gif');
+    background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
     
   .tile.tile-4 .tile-inner {
-    background: #f0f url('../img/212/doge-shake-space-212.gif');
+    background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
     background-size: cover;    
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
     
   .tile.tile-8 .tile-inner {
-    background: #f0f url('../img/212/doge-peepers-212.gif');
+    background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
     background-size: cover;}
     
   .tile.tile-16 .tile-inner {
-    background: #f0f url('../img/212/doge-prizza-212.gif');
+    background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
     background-size: cover;}
     
   .tile.tile-32 .tile-inner {
-    background: #f0f url('../img/212/doge-hat-212.gif');
+    background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
     background-size: cover;}
     
   .tile.tile-64 .tile-inner {
-    background: #f0f url('../img/212/doge-gradient-212.gif');
+    background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
     background-size: cover;}
     
   .tile.tile-128 .tile-inner {
-    background: #f0f url('../img/212/doge-fat-212.gif');
+    background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
@@ -514,7 +514,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
 
-    background: #f0f url('../img/212/doge-rainbow-212.gif');
+    background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
@@ -523,7 +523,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
 
-    background: #f0f url('../img/212/doge-sunglasses-212.gif');
+    background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
@@ -531,7 +531,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    background: #f0f url('../img/212/doge-derp-212.gif');
+    background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
@@ -540,7 +540,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
 
-    background: #f0f url('../img/212/doge-shake-212.gif');
+    background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
@@ -549,7 +549,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-super .tile-inner {
 
-    background: #f0f url('../img/212/doge-derp-212.gif');
+    background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
     background-size: cover;    
     font-size: 30px; }
     @media screen and (max-width: 480px) {
@@ -846,33 +846,33 @@ hr {
     transform: translate(202px, 202px); }
 
     .tile.tile-2 .tile-inner {
-      background: #f0f url('../img/114/doge-wink-114.gif');
+      background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
       background-size: cover;
       box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
     
     .tile.tile-4 .tile-inner {
-      background: #f0f url('../img/114/doge-shake-space-114.gif');
+      background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
       background-size: cover;    
       box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
     
     .tile.tile-8 .tile-inner {
-      background: #f0f url('../img/114/doge-peepers-114.gif');
+      background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
       background-size: cover;}
     
     .tile.tile-16 .tile-inner {
-      background: #f0f url('../img/114/doge-prizza-114.gif');
+      background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
       background-size: cover;}
     
     .tile.tile-32 .tile-inner {
-      background: #f0f url('../img/114/doge-hat-114.gif');
+      background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
       background-size: cover;}
     
     .tile.tile-64 .tile-inner {
-      background: #f0f url('../img/114/doge-gradient-114.gif');
+      background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
       background-size: cover;}
     
     .tile.tile-128 .tile-inner {
-      background: #f0f url('../img/114/doge-fat-114.gif');
+      background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
       background-size: cover;
       box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
       font-size: 45px; }
@@ -881,7 +881,7 @@ hr {
           font-size: 25px; } }
     .tile.tile-256 .tile-inner {
 
-      background: #f0f url('../img/114/doge-rainbow-114.gif');
+      background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
       background-size: cover;
       box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
       font-size: 45px; }
@@ -890,7 +890,7 @@ hr {
           font-size: 25px; } }
     .tile.tile-512 .tile-inner {
 
-      background: #f0f url('../img/114/doge-sunglasses-114.gif');
+      background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
       background-size: cover;
       box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
       font-size: 45px; }
@@ -898,7 +898,7 @@ hr {
         .tile.tile-512 .tile-inner {
           font-size: 25px; } }
     .tile.tile-1024 .tile-inner {
-      background: #f0f url('../img/114/doge-derp-114.gif');
+      background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
       background-size: cover;
       box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
       font-size: 35px; }
@@ -907,7 +907,7 @@ hr {
           font-size: 15px; } }
     .tile.tile-2048 .tile-inner {
 
-      background: #f0f url('../img/114/doge-shake-114.gif');
+      background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
       background-size: cover;
       box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
       font-size: 35px; }
@@ -916,7 +916,7 @@ hr {
           font-size: 15px; } }
     .tile.tile-super .tile-inner {
 
-      background: #f0f url('../img/114/doge-derp-114.gif');
+      background: #f0f url('https://24.media.tumblr.com/928a210edee73d0430ffbb8a1932bc95/tumblr_n2zs9d7JB21tse9ejo1_250.gif');
       background-size: cover;    
       font-size: 30px; }
       @media screen and (max-width: 480px) {
